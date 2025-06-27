@@ -17,8 +17,12 @@ NumPy (Numerical Python) is an open-source library that allows you to perform:
 - Boolean indexing and masking
 - Mathematical operations
 - Submatrix extraction
+## 🚀 Open in Google Colab
 
-  
+Click below to open and run the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alekya34/Numpy/blob/main/numpy.ipynb)
+
 ## 💡 Requirements
 
 - Python 3.x
